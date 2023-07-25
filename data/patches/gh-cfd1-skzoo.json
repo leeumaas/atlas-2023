@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "SKZOO",
+	"description": "Characters that are the representative animals of the members of a Kpop group called \"Stray Kids\"",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				-1399,
+				-368
+			],
+			[
+				-1383,
+				-368
+			],
+			[
+				-1383,
+				-352
+			],
+			[
+				-1399,
+				-352
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1391,
+			-360
+		]
+	}
+}
